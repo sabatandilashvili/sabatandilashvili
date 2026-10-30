@@ -4,7 +4,7 @@ AI engineer and founder of [Omio Labs](https://omiolabs.ge) in Tbilisi. I build 
 from the model and the data to the interface, the server and the first paying customer, and I run them
 in production myself.
 
-### Featured: [Investigation Engine](https://github.com/sabatandilashvili3-cyber/upgaming-project)
+### Featured: [Investigation Engine](https://github.com/sabatandilashvili/upgaming-project)
 
 An agentic RAG system that answers questions across 62,000 documents with a report where every
 sentence is checked against its sources. It finds where sources disagree and says "not established"
@@ -19,7 +19,7 @@ when the evidence isn't there. [Try it live](https://130-61-72-51.sslip.io).
 
 Hybrid search (own BM25 + RRF on Postgres/pgvector), Claude tool use, a deterministic verifier,
 Langfuse tracing, 85 tests in CI. Full method and failure analysis in
-[EVALUATION.md](https://github.com/sabatandilashvili3-cyber/upgaming-project/blob/main/EVALUATION.md).
+[EVALUATION.md](https://github.com/sabatandilashvili/upgaming-project/blob/main/EVALUATION.md).
 
 ### Products I've built and run
 
